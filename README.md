@@ -4,6 +4,8 @@
 - 🌱 Aprendendo Python e JavaScript
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Amo videoGames! ^.-
+- ❤️ Casado com @mtainalopes.
+
 ##
 <div>
   <a href="https://github.com/fabiolealsc">
