@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu reposito! :D 👋
+### Olá, bem vindo ao meu repositorio! :D 👋
 
 - 🔭 Trabalhando na áre de manutenção industrial
 - 🌱 Aprendendo Python e JavaScript
