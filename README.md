@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu repositorio! :D 👋
 
 - 🔭 Trabalhando na área de manutenção industrial
-- 🌱 Aprendendo Python e JavaScript
+- 🌱 Aprendendo ASP.NET e .NET
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Amo videoGames! ^.-
 - ❤️ Casado com @mtainalopes.
