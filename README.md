@@ -4,7 +4,8 @@
 - 🌱 Aprendendo ASP.NET e .NET
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Amo videoGames! ^.-
-- ❤️ Casado com @mtainalopes.
+- ❤️ Solteirão.
+
 
 ##
 <div>
