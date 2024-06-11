@@ -1,3 +1,6 @@
+<header>
+     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</header>
 ### Olá, bem vindo ao meu repositorio! :D 👋
 
 - 🔭 Trabalhando na área de manutenção industrial
