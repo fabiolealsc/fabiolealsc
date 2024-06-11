@@ -1,10 +1,10 @@
 
 ### Olá, bem vindo ao meu repositorio! :D 👋
 
-- 🔭 Trabalhando na área de manutenção industrial
-- 🌱 Aprendendo ASP.NET e .NET
+- 🔭 Trabalhando na Àrea de TI
+- 🌱 Aprendendo Laravel
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Amo videoGames! ^.-
+- ⚡ Fun fact: Amo motos
 - ❤️ Solteirão.
 
 
